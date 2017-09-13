@@ -126,7 +126,7 @@ is written as this Hugo shortcode:
             {{ if .Get "attrlink"}}</a> {{ end }}
             </p> {{ end }}
         </figcaption>
-        {{ end }}
+        
     </figure>
     <!-- image -->
 
